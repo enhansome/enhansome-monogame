@@ -1,0 +1,947 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MonoGame",
+          "description": "- Source code for the framework and its tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T17:15:08Z",
+            "owner": "MonoGame",
+            "repo": "MonoGame",
+            "stars": 14296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FNA",
+          "description": "- Desktop unique reimplementation of XNA 4.0 apis. It can be used to build desktop versions and be sure to have the same behavior on all platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T11:59:26Z",
+            "owner": "FNA-XNA",
+            "repo": "FNA",
+            "stars": 3029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DigitalRune",
+          "description": "- .NET libraries for developing 3D games with XNA and MonoGame",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-06-05T01:01:05Z",
+            "owner": "DigitalRune",
+            "repo": "DigitalRune",
+            "stars": 285
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Murder",
+          "description": "- Murder is a pixel art ECS game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:54:11Z",
+            "owner": "isadorasophia",
+            "repo": "murder",
+            "stars": 3310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nez",
+          "description": "- Source code for the framework and the tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-01T21:30:04Z",
+            "owner": "prime31",
+            "repo": "Nez",
+            "stars": 2061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonoGame.Extended",
+          "description": "- A collection of classes and extensions to make it easier to make games with MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T03:19:25Z",
+            "owner": "MonoGame-Extended",
+            "repo": "Monogame-Extended",
+            "stars": 1756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SadConsole",
+          "description": "- A .NET ascii/ansi console engine written in C# for MonoGame and SFML. Create your own text roguelike (or other) games!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-09T17:43:58Z",
+            "owner": "Thraka",
+            "repo": "SadConsole",
+            "stars": 1381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlatRedBall",
+          "description": "- A game development platform, built in C#, that's perfect for indies or big studios! Built on top of MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T18:20:57Z",
+            "owner": "vchelaru",
+            "repo": "FlatRedBall",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CocosSharp",
+          "description": "- CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-04-15T15:43:26Z",
+            "owner": "mono",
+            "repo": "CocosSharp",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monofoxe",
+          "description": "- A game engine greatly inspired by Game Maker. It makes game development in Monogame way easier and faster without removing low-level access to the framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T11:29:11Z",
+            "owner": "Martenfur",
+            "repo": "Monofoxe",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monocle",
+          "description": "Framework created and maintained by @MaddyThorson for their games (Towerfall, Celeste, ...).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-06-30T04:51:03Z",
+            "owner": "JamesMcMahon",
+            "repo": "monocle-engine",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Friflo.Engine.ECS",
+          "description": "- High-performance C# ECS 🔥 with simple API. Supports .NET, WASM/WebAssembly, Native AOT, MonoGame, Godot, Unity, ...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-29T05:28:35Z",
+            "owner": "friflo",
+            "repo": "Friflo.Json.Fliox",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protogame",
+          "description": "- Protogame is an open source game engine (MIT licensed) written on top of MonoGame and C#, designed to allow game developers to rapidly produce games within 48 hours.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2018-02-26T04:09:17Z",
+            "owner": "RedpointArchive",
+            "repo": "Protogame",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simplex Engine",
+          "description": "- Free alternative to Game Maker Studio 2, porting and flavoring GML to C#, running on MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T09:00:25Z",
+            "owner": "lofcz",
+            "repo": "SimplexRpgEngine",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gem",
+          "description": "- A cross-platform game engine with GUI and multiplayer support using MonoGame, Farseer and Lidgren.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-04-12T09:59:08Z",
+            "owner": "gmich",
+            "repo": "Gem",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aether Engine",
+          "description": "- A lightweight, modular game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-07T14:54:22Z",
+            "owner": "tainicom",
+            "repo": "Aether",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corund",
+          "description": "- An engine for 2D mobile games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-09-16T15:46:15Z",
+            "owner": "impworks",
+            "repo": "corund",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TiledSharp",
+          "description": "- C# library for parsing and importing TMX and TSX files generated by Tiled, a tile map generation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-08-12T18:04:18Z",
+            "owner": "marshallward",
+            "repo": "TiledSharp",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TiledLib.Net",
+          "description": "- Cross-platform Tiled map parsing utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-30T14:13:39Z",
+            "owner": "Ragath",
+            "repo": "TiledLib.Net",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Tiles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spine",
+          "description": "- 2D skeletal animation runtimes for Spine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T13:11:51Z",
+            "owner": "EsotericSoftware",
+            "repo": "spine-runtimes",
+            "stars": 5242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpriterDotNet",
+          "description": "- A simple, fast and efficient Spriter implementation in pure C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-07T17:46:35Z",
+            "owner": "loodakrawa",
+            "repo": "SpriterDotNet",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spritesheet",
+          "description": "- Simple helper for creating sprite based animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-07-17T15:10:24Z",
+            "owner": "dotnet-ad",
+            "repo": "Spritesheet",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aether.Animation",
+          "description": "- GPU & CPU Skinned animation for 3D models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-30T00:03:12Z",
+            "owner": "nkast",
+            "repo": "Aether.Extras",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Animations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Myra",
+          "description": "- UI Library for MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T16:53:03Z",
+            "owner": "MyraUI",
+            "repo": "Myra",
+            "stars": 874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gum",
+          "description": "- Flexible layout tool and runtime for creating UI on any platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T20:52:41Z",
+            "owner": "vchelaru",
+            "repo": "Gum",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeonBit.UI",
+          "description": "- UI system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-25T12:18:51Z",
+            "owner": "RonenNess",
+            "repo": "GeonBit.UI",
+            "stars": 508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apos.Gui",
+          "description": "- UI library for MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-22T02:36:19Z",
+            "owner": "Apostolique",
+            "repo": "Apos.Gui",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmptyKeys",
+          "description": "- Create UI from a WPF like XAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-25T22:50:08Z",
+            "owner": "EmptyKeys",
+            "repo": "UI_Engines",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avalonia Monogame Dock Template",
+          "description": "- Avalonia UI with docking system and Monogame window, for creating your own graphic desktop software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-18T05:14:26Z",
+            "owner": "vilten",
+            "repo": "Avalonia-Monogame-Dock-Template",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "User Interfaces"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MonoGame.Forms",
+          "description": "- the easiest way of integrating a MonoGame render window into your Windows Forms project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-18T08:17:22Z",
+            "owner": "BlizzCrafter",
+            "repo": "MonoGame.Forms",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonoGame.WpfCore",
+          "description": "- MonoGame embedded inside a WPF app as a dotnet new template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-20T14:43:55Z",
+            "owner": "craftworkgames",
+            "repo": "MonoGame.WpfCore",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Interop"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VelcroPhysics",
+          "description": "High performance 2D collision detection system with realistic physics responses. (Ex-Farseer)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-08-01T16:38:16Z",
+            "owner": "Genbox",
+            "repo": "VelcroPhysics",
+            "stars": 742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BEPUphysics",
+          "description": "Pure C# 3D real time physics simulation library. (With MonoGame examples)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-06-06T18:08:15Z",
+            "owner": "bepu",
+            "repo": "bepuphysics1",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aether.Physics2D",
+          "description": "- A 2D Physics simulation and collision detection system for MonoGame. Fork of the Farseer Physics Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-08-23T08:26:47Z",
+            "owner": "tainicom",
+            "repo": "Aether.Physics2D",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BulletSharp",
+          "description": "NET wrapper for the Bullet physics library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-22T11:51:34Z",
+            "owner": "AndresTraks",
+            "repo": "BulletSharp",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VolatilePhysics",
+          "description": "A 2D Physics Library for Networked Games",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-02-28T01:51:22Z",
+            "owner": "ashoulson",
+            "repo": "VolatilePhysics",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Box2D.NET",
+          "description": "A C# port of Box2D, a 2D physics engine for games, servers, and Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T16:21:55Z",
+            "owner": "ikpil",
+            "repo": "Box2D.NET",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Humper",
+          "description": "- Collision detection for Axis-Aligned-Bounding-Boxes (aka AABB) in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-18T09:24:14Z",
+            "owner": "dotnet-ad",
+            "repo": "Humper",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jitter",
+          "description": "- A maintained fork of the Jitter physics engine, which is used in Protogame.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2018-02-26T03:18:19Z",
+            "owner": "RedpointArchive",
+            "repo": "Jitter",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Farseer.Portable",
+          "description": "- Farseer Physics compiled as a portable class library (PCL) against the PCL version of MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-12-20T23:51:59Z",
+            "owner": "craftworkgames",
+            "repo": "FarseerPhysics.Portable",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Physics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Roy-T AStar",
+          "description": "- A 2D path finding library based on the A* algorithm for .NETStandard 1.0 and .Net 4.5 and higher. This library has no external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-07T11:22:45Z",
+            "owner": "roy-t",
+            "repo": "AStar",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrainAI",
+          "description": "- A library with different helpers to write AI (Utility AI, machinestate, goap,behaviortree), pathfinding(A＊, Dejkstra, BFS) and influence map. This library has no external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-28T15:51:16Z",
+            "owner": "ApmeM",
+            "repo": "BrainAI",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AStar",
+          "description": "- A* Star Pathfinding Search Algorithm in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-03-22T17:25:52Z",
+            "owner": "leniel",
+            "repo": "AStar",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A-Pathfinding-and-movement-system-demo",
+          "description": "- A* pathfinding and movement system in C# and MonoGame taken from the Vault-Tech engine",
+          "children": []
+        }
+      ],
+      "title": "Artificial Intelligence"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Penumbra",
+          "description": "- 2D lighting with soft shadows for MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-08-02T14:05:23Z",
+            "owner": "discosultan",
+            "repo": "penumbra",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeferredEngine",
+          "description": "- Deferred rendering engine written to make developing and understanding custom shaders easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-20T13:32:45Z",
+            "owner": "Kosmonaut3d",
+            "repo": "DeferredEngine",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MGShaderEditor",
+          "description": "- Shader Editor for MonoGame's Effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-10-02T19:08:16Z",
+            "owner": "fxgenstudio",
+            "repo": "MGShaderEditor",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aether.Shaders",
+          "description": "- Fast Approximate Anti-Aliasing shaders. Deferred rendering shaders.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-01-19T01:46:14Z",
+            "owner": "tainicom",
+            "repo": "Aether.Extras",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Effects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SadConsole",
+          "description": "- A .NET ascii/ansi console engine written in C# for MonoGame and XNA. Create your own text roguelike (or other) games!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-09T17:43:58Z",
+            "owner": "Thraka",
+            "repo": "SadConsole",
+            "stars": 1381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuakeConsole",
+          "description": "- Quake-style console for MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-08-02T14:19:32Z",
+            "owner": "discosultan",
+            "repo": "quake-console",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "Consoles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Backdash",
+          "description": "- Rollback network SDK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-03T22:46:33Z",
+            "owner": "Delta3-Studio",
+            "repo": "Backdash",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonoSync",
+          "description": "- Synchronization layer for multiplayer games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-01T18:44:58Z",
+            "owner": "janfokke",
+            "repo": "MonoSync",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FSMsharp",
+          "description": "- Incredibly small finite state machine for .NET languages, written in C#. Useful for UIs and games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-06-15T13:08:11Z",
+            "owner": "wakingviolet",
+            "repo": "FSMsharp",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mono.GameMath",
+          "description": "- Optimized math for games, based on XNA APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-03-04T19:12:47Z",
+            "owner": "mhutch",
+            "repo": "Mono.GameMath",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comora",
+          "description": "- A simple 2D camera for MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-07-17T15:20:44Z",
+            "owner": "dotnet-ad",
+            "repo": "Comora",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LilyPath",
+          "description": "- A 2D path and shape drawing library for MonoGame and XNA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-05-20T13:45:01Z",
+            "owner": "jaquadro",
+            "repo": "LilyPath",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apos.Input",
+          "description": "- Input library for MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T01:04:46Z",
+            "owner": "Apostolique",
+            "repo": "Apos.Input",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2D Primitives",
+          "description": "- Extends to allow to draw various shapes, mainly for debugging purpose.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-11T06:17:31Z",
+            "owner": "NoxiousPluK",
+            "repo": "MonoGame.Primitives2D",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2D Camera",
+          "description": "- A highly-optimized, flexible and powerful 2D camera for MonoGame",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-09-03T20:16:39Z",
+            "owner": "DeanReynolds",
+            "repo": "Dcrew.Camera",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transform",
+          "description": "- Base objects for managing relative transforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-07-17T15:21:59Z",
+            "owner": "dotnet-ad",
+            "repo": "Transform",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XNALibrary",
+          "description": "- XNA/MonoGame tool library. IsolatedStorageFile Wrapper, Garbage-free StringBuilder, Phasor, Timer, Scheduler, InputState, PMS/duty-cicle Vibrate control, Common Vertex types, DataStructures & Collections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-04T07:24:34Z",
+            "owner": "tainicom",
+            "repo": "XNALibrary",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MGLayers",
+          "description": "- Layered and packed asset loading extensions for MonoGame.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "FbonizziMonoGame",
+          "description": "- It defines some tools for MonoGame (like a ParticleGenerator) and abstractions over Windows UWP and Android (like a SettingsRepository)",
+          "children": []
+        }
+      ],
+      "title": "Helpers"
+    },
+    {
+      "description": "To the extent possible under law, Aloïs Deniel has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:31.185Z",
+    "original_repository": "aloisdeniel/awesome-monogame",
+    "original_repository_sha": "c6210d600bdd436bbef87ab6abc2152ea9a721ae",
+    "enhanced_repository": "enhansome/enhansome-monogame",
+    "enhanced_repository_description": null,
+    "title": "awesome-monogame with stars"
+  }
+}
