@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T16:23:52Z",
+            "last_commit": "2026-08-13T21:46:22Z",
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14299
+            "stars": 14304
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T11:59:26Z",
+            "last_commit": "2026-08-14T01:44:31Z",
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3029
+            "stars": 3030
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T06:37:08Z",
+            "last_commit": "2026-08-14T06:22:45Z",
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3311
+            "stars": 3312
           }
         },
         {
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T16:31:06Z",
+            "last_commit": "2026-08-14T16:17:31Z",
             "owner": "vchelaru",
             "repo": "FlatRedBall",
             "stars": 565
@@ -298,7 +298,7 @@
             "last_commit": "2026-08-04T13:11:51Z",
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5242
+            "stars": 5244
           }
         },
         {
@@ -357,7 +357,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T05:48:20Z",
+            "last_commit": "2026-08-14T15:06:13Z",
             "owner": "MyraUI",
             "repo": "Myra",
             "stars": 874
@@ -371,10 +371,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T14:19:18Z",
+            "last_commit": "2026-08-14T16:10:10Z",
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 598
+            "stars": 600
           }
         },
         {
@@ -551,7 +551,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T16:15:46Z",
+            "last_commit": "2026-08-14T14:20:19Z",
             "owner": "ikpil",
             "repo": "Box2D.NET",
             "stars": 203
@@ -684,7 +684,7 @@
             "last_commit": "2018-11-20T13:32:45Z",
             "owner": "Kosmonaut3d",
             "repo": "DeferredEngine",
-            "stars": 258
+            "stars": 259
           }
         },
         {
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:41:05.276Z",
+    "last_updated": "2026-08-14T16:36:29.295Z",
     "original_repository": "aloisdeniel/awesome-monogame",
     "original_repository_sha": "c6210d600bdd436bbef87ab6abc2152ea9a721ae",
     "enhanced_repository": "enhansome/enhansome-monogame",
