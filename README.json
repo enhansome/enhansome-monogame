@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1579990,
             "language": "C#",
-            "last_commit": "2026-08-17T19:11:02Z",
+            "last_commit": "2026-08-19T09:21:03Z",
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14320
+            "stars": 14321
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48347702,
             "language": "C#",
             "last_commit": "2026-08-18T14:50:31Z",
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3031
+            "stars": 3032
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60398278,
             "language": "C#",
             "last_commit": "2016-06-05T01:01:05Z",
             "owner": "DigitalRune",
@@ -49,7 +52,7 @@
       "title": "General"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,8 +61,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 556157877,
             "language": "C#",
-            "last_commit": "2026-08-18T03:52:07Z",
+            "last_commit": "2026-08-19T00:20:34Z",
             "owner": "isadorasophia",
             "repo": "murder",
             "stars": 3312
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51316128,
             "language": "C#",
             "last_commit": "2026-07-01T21:30:04Z",
             "owner": "prime31",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38615138,
             "language": "C#",
             "last_commit": "2026-08-18T04:30:06Z",
             "owner": "MonoGame-Extended",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18232012,
             "language": "C#",
             "last_commit": "2026-07-09T17:43:58Z",
             "owner": "Thraka",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49612213,
             "language": "C#",
-            "last_commit": "2026-08-18T01:51:11Z",
+            "last_commit": "2026-08-19T12:36:21Z",
             "owner": "vchelaru",
             "repo": "FlatRedBall",
-            "stars": 566
+            "stars": 567
           }
         },
         {
@@ -128,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12414546,
             "language": "C#",
             "last_commit": "2020-04-15T15:43:26Z",
             "owner": "mono",
             "repo": "CocosSharp",
-            "stars": 497
+            "stars": 498
           }
         },
         {
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193881467,
             "language": "C#",
             "last_commit": "2026-07-25T11:29:11Z",
             "owner": "Martenfur",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276000080,
             "language": "C#",
             "last_commit": "2020-06-30T04:51:03Z",
             "owner": "JamesMcMahon",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325607546,
             "language": "C#",
             "last_commit": "2025-03-29T05:28:35Z",
             "owner": "friflo",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5695369,
             "language": "C#",
             "last_commit": "2018-02-26T04:09:17Z",
             "owner": "RedpointArchive",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38562438,
             "language": "C#",
             "last_commit": "2022-12-08T09:00:25Z",
             "owner": "lofcz",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28392030,
             "language": "C#",
             "last_commit": "2017-04-12T09:59:08Z",
             "owner": "gmich",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29702872,
             "language": "C#",
             "last_commit": "2025-03-07T14:54:22Z",
             "owner": "tainicom",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78038178,
             "language": "C#",
             "last_commit": "2022-09-16T15:46:15Z",
             "owner": "impworks",
@@ -251,7 +268,7 @@
       "title": "Engines"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3684434,
             "language": "C#",
             "last_commit": "2022-08-12T18:04:18Z",
             "owner": "marshallward",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98584099,
             "language": "C#",
             "last_commit": "2026-05-30T14:13:39Z",
             "owner": "Ragath",
@@ -285,7 +304,7 @@
       "title": "Tiles"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -294,11 +313,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8302181,
             "language": "C++",
             "last_commit": "2026-08-17T20:23:25Z",
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5247
+            "stars": 5250
           }
         },
         {
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41341573,
             "language": "C#",
             "last_commit": "2022-12-07T17:46:35Z",
             "owner": "loodakrawa",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93572779,
             "language": "C#",
             "last_commit": "2019-07-17T15:10:24Z",
             "owner": "dotnet-ad",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569940490,
             "language": "C#",
             "last_commit": "2025-11-30T00:03:12Z",
             "owner": "nkast",
@@ -347,7 +370,7 @@
       "title": "Animations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66231101,
             "language": "C#",
             "last_commit": "2026-08-14T15:06:13Z",
             "owner": "MyraUI",
@@ -370,8 +394,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32026097,
             "language": "C#",
-            "last_commit": "2026-08-18T12:15:12Z",
+            "last_commit": "2026-08-19T01:41:07Z",
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 602
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76732595,
             "language": "C#",
             "last_commit": "2024-04-25T12:18:51Z",
             "owner": "RonenNess",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161572225,
             "language": "C#",
             "last_commit": "2026-07-22T02:36:19Z",
             "owner": "Apostolique",
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40826525,
             "language": "C#",
             "last_commit": "2025-05-25T22:50:08Z",
             "owner": "EmptyKeys",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 923689752,
             "language": "C#",
             "last_commit": "2025-02-18T05:14:26Z",
             "owner": "vilten",
@@ -437,7 +466,7 @@
       "title": "User Interfaces"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -446,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110164314,
             "language": "C#",
             "last_commit": "2025-08-18T08:17:22Z",
             "owner": "BlizzCrafter",
@@ -460,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198628052,
             "language": "C#",
             "last_commit": "2024-07-20T14:43:55Z",
             "owner": "craftworkgames",
@@ -471,7 +502,7 @@
       "title": "Interop"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -480,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86859902,
             "language": "C#",
             "last_commit": "2021-08-01T16:38:16Z",
             "owner": "Genbox",
@@ -494,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76690841,
             "language": "C#",
             "last_commit": "2023-06-06T18:08:15Z",
             "owner": "bepu",
@@ -508,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 86996088,
             "language": "C#",
             "last_commit": "2023-08-23T08:26:47Z",
             "owner": "tainicom",
@@ -522,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16234816,
             "language": "C++",
             "last_commit": "2025-02-22T11:51:34Z",
             "owner": "AndresTraks",
@@ -536,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37292256,
             "language": "C#",
             "last_commit": "2021-02-28T01:51:22Z",
             "owner": "ashoulson",
@@ -550,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 933482999,
             "language": "C#",
             "last_commit": "2026-08-18T15:01:14Z",
             "owner": "ikpil",
@@ -564,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67285375,
             "language": "C#",
             "last_commit": "2024-01-18T09:24:14Z",
             "owner": "dotnet-ad",
@@ -578,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 17102346,
             "language": "C#",
             "last_commit": "2018-02-26T03:18:19Z",
             "owner": "RedpointArchive",
@@ -592,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19779311,
             "language": "C#",
             "last_commit": "2015-12-20T23:51:59Z",
             "owner": "craftworkgames",
@@ -603,7 +643,7 @@
       "title": "Physics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -612,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99032606,
             "language": "C#",
             "last_commit": "2024-04-07T11:22:45Z",
             "owner": "roy-t",
@@ -626,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210596613,
             "language": "C#",
             "last_commit": "2026-05-28T15:51:16Z",
             "owner": "ApmeM",
@@ -640,24 +682,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18014689,
             "language": "C#",
             "last_commit": "2014-03-22T17:25:52Z",
             "owner": "leniel",
             "repo": "AStar",
             "stars": 24
           }
-        },
-        {
-          "node_type": "item",
-          "title": "A-Pathfinding-and-movement-system-demo",
-          "description": "- A* pathfinding and movement system in C# and MonoGame taken from the Vault-Tech engine",
-          "children": []
         }
       ],
       "title": "Artificial Intelligence"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -666,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37822381,
             "language": "C#",
             "last_commit": "2022-08-02T14:05:23Z",
             "owner": "discosultan",
@@ -680,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63745476,
             "language": "C#",
             "last_commit": "2018-11-20T13:32:45Z",
             "owner": "Kosmonaut3d",
@@ -694,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42230498,
             "language": "C#",
             "last_commit": "2019-10-02T19:08:16Z",
             "owner": "fxgenstudio",
@@ -708,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 73025134,
             "language": "C#",
             "last_commit": "2023-01-19T01:46:14Z",
             "owner": "tainicom",
@@ -719,7 +760,7 @@
       "title": "Effects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -728,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18232012,
             "language": "C#",
             "last_commit": "2026-07-09T17:43:58Z",
             "owner": "Thraka",
@@ -742,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24731066,
             "language": "C#",
             "last_commit": "2022-08-02T14:19:32Z",
             "owner": "discosultan",
@@ -753,7 +796,7 @@
       "title": "Consoles"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -762,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 690212135,
             "language": "C#",
             "last_commit": "2026-07-03T22:46:33Z",
             "owner": "Delta3-Studio",
@@ -776,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235272420,
             "language": "C#",
             "last_commit": "2026-01-01T18:44:58Z",
             "owner": "janfokke",
@@ -787,7 +832,7 @@
       "title": "Networking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -796,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54485089,
             "language": "C#",
             "last_commit": "2020-06-15T13:08:11Z",
             "owner": "wakingviolet",
@@ -810,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1217961,
             "language": "C#",
             "last_commit": "2021-03-04T19:12:47Z",
             "owner": "mhutch",
@@ -824,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66837325,
             "language": "C#",
             "last_commit": "2019-07-17T15:20:44Z",
             "owner": "dotnet-ad",
@@ -838,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8285282,
             "language": "C#",
             "last_commit": "2020-05-20T13:45:01Z",
             "owner": "jaquadro",
@@ -852,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168710722,
             "language": "C#",
             "last_commit": "2026-08-06T01:04:46Z",
             "owner": "Apostolique",
@@ -866,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112200402,
             "language": "C#",
             "last_commit": "2021-01-11T06:17:31Z",
             "owner": "NoxiousPluK",
@@ -880,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248511134,
             "language": "C#",
             "last_commit": "2020-09-03T20:16:39Z",
             "owner": "DeanReynolds",
@@ -894,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106940169,
             "language": "C#",
             "last_commit": "2019-07-17T15:21:59Z",
             "owner": "dotnet-ad",
@@ -908,37 +961,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36937963,
             "language": "C#",
             "last_commit": "2024-10-04T07:24:34Z",
             "owner": "tainicom",
             "repo": "XNALibrary",
             "stars": 9
           }
-        },
-        {
-          "node_type": "item",
-          "title": "MGLayers",
-          "description": "- Layered and packed asset loading extensions for MonoGame.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "FbonizziMonoGame",
-          "description": "- It defines some tools for MonoGame (like a ParticleGenerator) and abstractions over Windows UWP and Android (like a SettingsRepository)",
-          "children": []
         }
       ],
       "title": "Helpers"
-    },
-    {
-      "description": "To the extent possible under law, Aloïs Deniel has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:15:07.558Z",
+    "last_updated": "2026-08-19T12:40:27.492Z",
     "original_repository": "aloisdeniel/awesome-monogame",
+    "original_repository_id": 66775029,
     "original_repository_sha": "c6210d600bdd436bbef87ab6abc2152ea9a721ae",
     "enhanced_repository": "enhansome/enhansome-monogame",
     "enhanced_repository_description": null,
