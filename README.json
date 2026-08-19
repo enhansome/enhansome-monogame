@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1579990,
             "language": "C#",
-            "last_commit": "2026-08-19T09:21:03Z",
+            "last_commit": "2026-08-19T15:47:59Z",
             "owner": "MonoGame",
             "repo": "MonoGame",
             "stars": 14321
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 48347702,
             "language": "C#",
-            "last_commit": "2026-08-18T14:50:31Z",
+            "last_commit": "2026-08-19T15:43:23Z",
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3032
@@ -111,7 +111,7 @@
             "last_commit": "2026-07-09T17:43:58Z",
             "owner": "Thraka",
             "repo": "SadConsole",
-            "stars": 1382
+            "stars": 1383
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 49612213,
             "language": "C#",
-            "last_commit": "2026-08-19T12:36:21Z",
+            "last_commit": "2026-08-19T13:18:43Z",
             "owner": "vchelaru",
             "repo": "FlatRedBall",
             "stars": 567
@@ -396,7 +396,7 @@
             "archived": false,
             "id": 32026097,
             "language": "C#",
-            "last_commit": "2026-08-19T01:41:07Z",
+            "last_commit": "2026-08-19T15:46:59Z",
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 602
@@ -774,7 +774,7 @@
             "last_commit": "2026-07-09T17:43:58Z",
             "owner": "Thraka",
             "repo": "SadConsole",
-            "stars": 1382
+            "stars": 1383
           }
         },
         {
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:40:27.492Z",
+    "last_updated": "2026-08-19T16:15:11.687Z",
     "original_repository": "aloisdeniel/awesome-monogame",
     "original_repository_id": 66775029,
     "original_repository_sha": "c6210d600bdd436bbef87ab6abc2152ea9a721ae",
