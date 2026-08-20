@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1579990,
             "language": "C#",
-            "last_commit": "2026-08-19T15:47:59Z",
+            "last_commit": "2026-08-19T18:13:53Z",
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14321
+            "stars": 14327
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 48347702,
             "language": "C#",
-            "last_commit": "2026-08-19T15:43:23Z",
+            "last_commit": "2026-08-20T13:41:47Z",
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3032
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-19T00:20:34Z",
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3312
+            "stars": 3311
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 49612213,
             "language": "C#",
-            "last_commit": "2026-08-19T13:18:43Z",
+            "last_commit": "2026-08-20T14:46:33Z",
             "owner": "vchelaru",
             "repo": "FlatRedBall",
             "stars": 567
@@ -315,10 +315,10 @@
             "archived": false,
             "id": 8302181,
             "language": "C++",
-            "last_commit": "2026-08-17T20:23:25Z",
+            "last_commit": "2026-08-19T19:09:54Z",
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5250
+            "stars": 5252
           }
         },
         {
@@ -396,10 +396,10 @@
             "archived": false,
             "id": 32026097,
             "language": "C#",
-            "last_commit": "2026-08-19T15:46:59Z",
+            "last_commit": "2026-08-20T14:32:47Z",
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2023-06-06T18:08:15Z",
             "owner": "bepu",
             "repo": "bepuphysics1",
-            "stars": 433
+            "stars": 434
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2021-03-04T19:12:47Z",
             "owner": "mhutch",
             "repo": "Mono.GameMath",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:15:11.687Z",
+    "last_updated": "2026-08-20T16:17:57.570Z",
     "original_repository": "aloisdeniel/awesome-monogame",
     "original_repository_id": 66775029,
     "original_repository_sha": "c6210d600bdd436bbef87ab6abc2152ea9a721ae",
