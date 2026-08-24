@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1579990,
             "language": "C#",
-            "last_commit": "2026-08-20T21:14:13Z",
+            "last_commit": "2026-08-23T21:09:37Z",
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14334
+            "stars": 14340
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T05:11:51Z",
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3035
+            "stars": 3036
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 556157877,
             "language": "C#",
-            "last_commit": "2026-08-23T06:55:46Z",
+            "last_commit": "2026-08-24T00:26:05Z",
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3311
+            "stars": 3312
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-07-01T21:30:04Z",
             "owner": "prime31",
             "repo": "Nez",
-            "stars": 2064
+            "stars": 2065
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-18T04:30:06Z",
             "owner": "MonoGame-Extended",
             "repo": "Monogame-Extended",
-            "stars": 1757
+            "stars": 1758
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 49612213,
             "language": "C#",
-            "last_commit": "2026-08-23T16:08:15Z",
+            "last_commit": "2026-08-24T13:59:32Z",
             "owner": "vchelaru",
             "repo": "FlatRedBall",
-            "stars": 567
+            "stars": 568
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-20T20:33:11Z",
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5256
+            "stars": 5258
           }
         },
         {
@@ -396,10 +396,10 @@
             "archived": false,
             "id": 32026097,
             "language": "C#",
-            "last_commit": "2026-08-23T15:06:49Z",
+            "last_commit": "2026-08-24T12:55:11Z",
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 605
+            "stars": 606
           }
         },
         {
@@ -800,6 +800,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "NoPipeline",
+          "description": "- Pipeline Tool addon which makes resource management seamless and hassle-free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 186398581,
+            "language": "C#",
+            "last_commit": "2024-11-04T22:49:42Z",
+            "owner": "Martenfur",
+            "repo": "Nopipeline",
+            "stars": 232
+          }
+        }
+      ],
+      "title": "Pipeline"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OculusRift4MonoGame",
+          "description": "- Oculus Rift support for MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73955586,
+            "language": "C++",
+            "last_commit": "2017-11-03T03:27:39Z",
+            "owner": "cpt-max",
+            "repo": "OculusRift4MonoGame",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "AR/VR"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Backdash",
           "description": "- Rollback network SDK",
           "children": [],
@@ -974,7 +1016,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:08:24.110Z",
+    "last_updated": "2026-08-24T14:11:16.288Z",
     "original_repository": "aloisdeniel/awesome-monogame",
     "original_repository_id": 66775029,
     "original_repository_sha": "c6210d600bdd436bbef87ab6abc2152ea9a721ae",
