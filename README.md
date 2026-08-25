@@ -1,6 +1,6 @@
 # awesome-monogame with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,699 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,847 | 🐛 106 | 📅 2026-08-21
 
 A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for building cross-platform games with [MonoGame framework](http://www.monogame.net/).
 
@@ -25,17 +25,17 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) 
 
 ## General
 
-* [**MonoGame**](https://github.com/MonoGame/MonoGame) ⭐ 14,343 | 🐛 754 | 🌐 C# | 📅 2026-08-24 - ![GitHub stars](https://img.shields.io/github/stars/MonoGame/MonoGame.svg) - Source code for the framework and its tools.
-* [**FNA**](https://github.com/FNA-XNA/FNA) ⭐ 3,036 | 🐛 59 | 🌐 C# | 📅 2026-08-24 - ![GitHub stars](https://img.shields.io/github/stars/FNA-XNA/FNA.svg) - Desktop unique reimplementation of XNA 4.0 apis. It can be used to build desktop versions and be sure to have the same behavior on all platforms.
+* [**MonoGame**](https://github.com/MonoGame/MonoGame) ⭐ 14,342 | 🐛 754 | 🌐 C# | 📅 2026-08-24 - ![GitHub stars](https://img.shields.io/github/stars/MonoGame/MonoGame.svg) - Source code for the framework and its tools.
+* [**FNA**](https://github.com/FNA-XNA/FNA) ⭐ 3,034 | 🐛 59 | 🌐 C# | 📅 2026-08-24 - ![GitHub stars](https://img.shields.io/github/stars/FNA-XNA/FNA.svg) - Desktop unique reimplementation of XNA 4.0 apis. It can be used to build desktop versions and be sure to have the same behavior on all platforms.
 * [DigitalRune](https://github.com/DigitalRune/DigitalRune) ⭐ 285 | 🐛 6 | 🌐 C# | 📅 2016-06-05 - ![GitHub stars](https://img.shields.io/github/stars/DigitalRune/DigitalRune.svg) - .NET libraries for developing 3D games with XNA and MonoGame
 
 ## Engines
 
 * [**Murder**](https://github.com/isadorasophia/murder) ⭐ 3,312 | 🐛 16 | 🌐 C# | 📅 2026-08-25 - ![GitHub stars](https://img.shields.io/github/stars/isadorasophia/murder.svg) - Murder is a pixel art ECS game engine.
-* [**Nez**](https://github.com/prime31/Nez) ⭐ 2,065 | 🐛 52 | 🌐 C# | 📅 2026-07-01 - ![GitHub stars](https://img.shields.io/github/stars/prime31/Nez.svg) - Source code for the framework and the tools.
-* [**MonoGame.Extended**](https://github.com/craftworkgames/MonoGame.Extended) ⭐ 1,758 | 🐛 15 | 🌐 C# | 📅 2026-08-18 - ![GitHub stars](https://img.shields.io/github/stars/craftworkgames/MonoGame.Extended.svg) - A collection of classes and extensions to make it easier to make games with MonoGame.
+* [**Nez**](https://github.com/prime31/Nez) ⭐ 2,064 | 🐛 52 | 🌐 C# | 📅 2026-07-01 - ![GitHub stars](https://img.shields.io/github/stars/prime31/Nez.svg) - Source code for the framework and the tools.
+* [**MonoGame.Extended**](https://github.com/craftworkgames/MonoGame.Extended) ⭐ 1,758 | 🐛 16 | 🌐 C# | 📅 2026-08-18 - ![GitHub stars](https://img.shields.io/github/stars/craftworkgames/MonoGame.Extended.svg) - A collection of classes and extensions to make it easier to make games with MonoGame.
 * [**SadConsole**](https://github.com/Thraka/SadConsole) ⭐ 1,383 | 🐛 8 | 🌐 C# | 📅 2026-07-09 - ![GitHub stars](https://img.shields.io/github/stars/Thraka/SadConsole.svg) - A .NET ascii/ansi console engine written in C# for MonoGame and SFML. Create your own text roguelike (or other) games!
-* [**FlatRedBall**](https://github.com/vchelaru/FlatRedBall/) ⭐ 568 | 🐛 99 | 🌐 C# | 📅 2026-08-25 - ![GitHub stars](https://img.shields.io/github/stars/vchelaru/FlatRedBall.svg) - A game development platform, built in C#, that's perfect for indies or big studios! Built on top of MonoGame.
+* [**FlatRedBall**](https://github.com/vchelaru/FlatRedBall/) ⭐ 568 | 🐛 94 | 🌐 C# | 📅 2026-08-25 - ![GitHub stars](https://img.shields.io/github/stars/vchelaru/FlatRedBall.svg) - A game development platform, built in C#, that's perfect for indies or big studios! Built on top of MonoGame.
 * [**CocosSharp**](https://github.com/mono/CocosSharp) ⚠️ Archived - ![GitHub stars](https://img.shields.io/github/stars/mono/CocosSharp.svg) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs.
 * [Monofoxe](https://github.com/gnFur/Monofoxe/) ⭐ 446 | 🐛 6 | 🌐 C# | 📅 2026-07-25 - ![GitHub stars](https://img.shields.io/github/stars/gnFur/Monofoxe.svg) - A game engine greatly inspired by Game Maker. It makes game development in Monogame way easier and faster without removing low-level access to the framework.
 * [**Monocle**](https://github.com/JamesMcMahon/monocle-engine) ⭐ 186 | 🐛 0 | 🌐 C# | 📅 2020-06-30 - Framework created and maintained by [@MaddyThorson](https://mobile.twitter.com/MaddyThorson) for their games (Towerfall, Celeste, ...).
@@ -54,7 +54,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) 
 
 ## Animations
 
-* [**Spine**](https://github.com/EsotericSoftware/spine-runtimes) ⭐ 5,260 | 🐛 81 | 🌐 C++ | 📅 2026-08-20 - ![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/spine-runtimes.svg) - 2D skeletal animation runtimes for Spine.
+* [**Spine**](https://github.com/EsotericSoftware/spine-runtimes) ⭐ 5,262 | 🐛 81 | 🌐 C++ | 📅 2026-08-20 - ![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/spine-runtimes.svg) - 2D skeletal animation runtimes for Spine.
 * [SpriterDotNet](https://github.com/loodakrawa/SpriterDotNet) ⭐ 220 | 🐛 24 | 🌐 C# | 📅 2022-12-07 - ![GitHub stars](https://img.shields.io/github/stars/loodakrawa/SpriterDotNet.svg) - A simple, fast and efficient Spriter implementation in pure C#.
 * [Spritesheet](https://github.com/aloisdeniel/Spritesheet) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2019-07-17  - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Spritesheet.svg) - Simple helper for creating sprite based animations.
 * [Aether.Animation](https://github.com/nkast/Aether.Extras/tree/main/Animation) ⭐ 23 | 🐛 2 | 🌐 C# | 📅 2025-11-30 - ![GitHub stars](https://img.shields.io/github/stars/nkast/Aether.Extras.svg) - GPU & CPU Skinned animation for 3D models.
@@ -65,8 +65,8 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) 
 
 ## User Interfaces
 
-* [Myra](https://github.com/rds1983/Myra) ⭐ 874 | 🐛 74 | 🌐 C# | 📅 2026-08-21 - ![GitHub stars](https://img.shields.io/github/stars/rds1983/Myra.svg) - UI Library for MonoGame.
-* [**Gum**](https://github.com/vchelaru/Gum/) ⭐ 609 | 🐛 16 | 🌐 C# | 📅 2026-08-24 - ![GitHub stars](https://img.shields.io/github/stars/vchelaru/Gum.svg) - Flexible layout tool and runtime for creating UI on any platform.
+* [Myra](https://github.com/rds1983/Myra) ⭐ 873 | 🐛 74 | 🌐 C# | 📅 2026-08-21 - ![GitHub stars](https://img.shields.io/github/stars/rds1983/Myra.svg) - UI Library for MonoGame.
+* [**Gum**](https://github.com/vchelaru/Gum/) ⭐ 609 | 🐛 12 | 🌐 C# | 📅 2026-08-24 - ![GitHub stars](https://img.shields.io/github/stars/vchelaru/Gum.svg) - Flexible layout tool and runtime for creating UI on any platform.
 * [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) ⭐ 508 | 🐛 17 | 🌐 C# | 📅 2024-04-25 - ![GitHub stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI.svg) - UI system.
 * [Apos.Gui](https://github.com/Apostolique/Apos.Gui) ⭐ 219 | 🐛 1 | 🌐 C# | 📅 2026-07-22 - ![GitHub stars](https://img.shields.io/github/stars/Apostolique/Apos.Gui.svg) - UI library for MonoGame.
 * [EmptyKeys](https://github.com/EmptyKeys/UI_Engines) ⭐ 60 | 🐛 4 | 🌐 C# | 📅 2025-05-25 - ![GitHub stars](https://img.shields.io/github/stars/EmptyKeys/UI_Engines.svg) - Create UI from a WPF like XAML.
@@ -79,7 +79,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) 
 
 ## Physics
 
-* [VelcroPhysics](https://github.com/VelcroPhysics/VelcroPhysics) ⭐ 742 | 🐛 22 | 🌐 C# | 📅 2021-08-01 ![GitHub stars](https://img.shields.io/github/stars/VelcroPhysics/VelcroPhysics.svg) - High performance 2D collision detection system with realistic physics responses. (Ex-Farseer)
+* [VelcroPhysics](https://github.com/VelcroPhysics/VelcroPhysics) ⭐ 743 | 🐛 22 | 🌐 C# | 📅 2021-08-01 ![GitHub stars](https://img.shields.io/github/stars/VelcroPhysics/VelcroPhysics.svg) - High performance 2D collision detection system with realistic physics responses. (Ex-Farseer)
 * [BEPUphysics](https://github.com/bepu/bepuphysics1) ⭐ 434 | 🐛 5 | 🌐 C# | 📅 2023-06-06 ![GitHub stars](https://img.shields.io/github/stars/bepu/bepuphysics1.svg) - Pure C# 3D real time physics simulation library. (With MonoGame examples)
 * [Aether.Physics2D](https://github.com/tainicom/Aether.Physics2D) ⚠️ Archived - ![GitHub stars](https://img.shields.io/github/stars/tainicom/Aether.Physics2D.svg) - A 2D Physics simulation and collision detection system for MonoGame. Fork of the [Farseer Physics Engine](https://farseerphysics.codeplex.com/).
 * [BulletSharp](https://github.com/AndresTraks/BulletSharp) ⭐ 302 | 🐛 9 | 🌐 C++ | 📅 2025-02-22 ![GitHub stars](https://img.shields.io/github/stars/AndresTraks/BulletSharp.svg) - NET wrapper for the Bullet physics library.
@@ -119,7 +119,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) 
 
 ## Networking
 
-* [Backdash](https://github.com/Delta3-Studio/Backdash) ⭐ 172 | 🐛 21 | 🌐 C# | 📅 2026-07-03 - ![GitHub stars](https://img.shields.io/github/stars/Delta3-Studio/Backdash.svg) - Rollback network SDK
+* [Backdash](https://github.com/Delta3-Studio/Backdash) ⭐ 173 | 🐛 21 | 🌐 C# | 📅 2026-07-03 - ![GitHub stars](https://img.shields.io/github/stars/Delta3-Studio/Backdash.svg) - Rollback network SDK
 * [MonoSync](https://github.com/janfokke/MonoSync) ⭐ 74 | 🐛 0 | 🌐 C# | 📅 2026-01-01 - ![GitHub stars](https://img.shields.io/github/stars/janfokke/MonoSync.svg) - Synchronization layer for multiplayer games.
 
 ## Helpers
