@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T01:42:25Z",
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14349
+            "stars": 14352
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T20:56:28Z",
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3035
+            "stars": 3036
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 556157877,
             "language": "C#",
-            "last_commit": "2026-08-25T08:31:27Z",
+            "last_commit": "2026-08-27T06:09:43Z",
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3313
+            "stars": 3314
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 49612213,
             "language": "C#",
-            "last_commit": "2026-08-26T16:02:26Z",
+            "last_commit": "2026-08-26T21:32:49Z",
             "owner": "vchelaru",
             "repo": "FlatRedBall",
             "stars": 568
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-21T15:42:59Z",
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -396,10 +396,10 @@
             "archived": false,
             "id": 32026097,
             "language": "C#",
-            "last_commit": "2026-08-26T15:37:51Z",
+            "last_commit": "2026-08-27T10:35:16Z",
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 609
+            "stars": 610
           }
         },
         {
@@ -1016,9 +1016,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:39:06.626Z",
-    "original_repository": "aloisdeniel/awesome-monogame",
-    "original_repository_id": 66775029,
+    "last_updated": "2026-08-27T11:52:09.236Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 66775029,
+      "language": null,
+      "last_commit": "2025-08-18T12:19:54Z",
+      "owner": "aloisdeniel",
+      "repo": "awesome-monogame",
+      "stars": 1450
+    },
     "original_repository_sha": "c6210d600bdd436bbef87ab6abc2152ea9a721ae",
     "enhanced_repository": "enhansome/enhansome-monogame",
     "enhanced_repository_description": null,
