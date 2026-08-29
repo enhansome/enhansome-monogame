@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-08-27T12:53:23Z",
-            "open_issues": 755,
+            "open_issues": 756,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14359,
+            "stars": 14361,
             "topics": [
               "3d",
               "c-sharp",
@@ -51,7 +51,7 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-08-28T01:44:09Z",
-            "open_issues": 60,
+            "open_issues": 62,
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3036,
@@ -111,7 +111,7 @@
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3316,
+            "stars": 3317,
             "topics": [
               "fna",
               "game-engine",
@@ -662,7 +662,7 @@
             "id": 66231101,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:47:44Z",
+            "last_commit": "2026-08-29T06:09:55Z",
             "open_issues": 74,
             "owner": "MyraUI",
             "repo": "Myra",
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-28T19:20:10Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-29T14:09:09Z",
+            "open_issues": 20,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 611,
@@ -1013,7 +1013,7 @@
             "open_issues": 7,
             "owner": "ikpil",
             "repo": "Box2D.NET",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "2d",
               "2d-game",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:34:53.324Z",
+    "last_updated": "2026-08-29T18:55:54.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
