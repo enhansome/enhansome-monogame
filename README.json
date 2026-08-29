@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T12:53:23Z",
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14357
-          }
+            "stars": 14359
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 48347702,
             "language": "C#",
-            "last_commit": "2026-08-27T14:42:35Z",
+            "last_commit": "2026-08-28T01:44:09Z",
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3036
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "DigitalRune",
             "repo": "DigitalRune",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "General"
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-27T23:52:25Z",
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3315
-          }
+            "stars": 3316
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-07-01T21:30:04Z",
             "owner": "prime31",
             "repo": "Nez",
-            "stars": 2064
-          }
+            "stars": 2065
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "MonoGame-Extended",
             "repo": "Monogame-Extended",
             "stars": 1760
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "Thraka",
             "repo": "SadConsole",
             "stars": 1383
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 49612213,
             "language": "C#",
-            "last_commit": "2026-08-27T22:12:34Z",
+            "last_commit": "2026-08-28T12:28:04Z",
             "owner": "vchelaru",
             "repo": "FlatRedBall",
             "stars": 569
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "mono",
             "repo": "CocosSharp",
             "stars": 498
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Martenfur",
             "repo": "Monofoxe",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2020-06-30T04:51:03Z",
             "owner": "JamesMcMahon",
             "repo": "monocle-engine",
-            "stars": 186
-          }
+            "stars": 187
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "friflo",
             "repo": "Friflo.Json.Fliox",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "RedpointArchive",
             "repo": "Protogame",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "lofcz",
             "repo": "SimplexRpgEngine",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "gmich",
             "repo": "Gem",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "tainicom",
             "repo": "Aether",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "impworks",
             "repo": "corund",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Engines"
@@ -283,7 +300,8 @@
             "owner": "marshallward",
             "repo": "TiledSharp",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "Ragath",
             "repo": "TiledLib.Net",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Tiles"
@@ -315,11 +334,12 @@
             "archived": false,
             "id": 8302181,
             "language": "C++",
-            "last_commit": "2026-08-20T20:33:11Z",
+            "last_commit": "2026-08-28T17:30:28Z",
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5266
-          }
+            "stars": 5268
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "loodakrawa",
             "repo": "SpriterDotNet",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "dotnet-ad",
             "repo": "Spritesheet",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "nkast",
             "repo": "Aether.Extras",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Animations"
@@ -385,7 +408,8 @@
             "owner": "MyraUI",
             "repo": "Myra",
             "stars": 874
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -396,11 +420,12 @@
             "archived": false,
             "id": 32026097,
             "language": "C#",
-            "last_commit": "2026-08-28T00:31:40Z",
+            "last_commit": "2026-08-28T19:20:10Z",
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 610
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "RonenNess",
             "repo": "GeonBit.UI",
             "stars": 508
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "Apostolique",
             "repo": "Apos.Gui",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "EmptyKeys",
             "repo": "UI_Engines",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "vilten",
             "repo": "Avalonia-Monogame-Dock-Template",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "User Interfaces"
@@ -481,7 +510,8 @@
             "owner": "BlizzCrafter",
             "repo": "MonoGame.Forms",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "craftworkgames",
             "repo": "MonoGame.WpfCore",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Interop"
@@ -517,7 +548,8 @@
             "owner": "Genbox",
             "repo": "VelcroPhysics",
             "stars": 744
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "bepu",
             "repo": "bepuphysics1",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -547,7 +580,8 @@
             "owner": "tainicom",
             "repo": "Aether.Physics2D",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -562,7 +596,8 @@
             "owner": "AndresTraks",
             "repo": "BulletSharp",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -577,7 +612,8 @@
             "owner": "ashoulson",
             "repo": "VolatilePhysics",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -592,7 +628,8 @@
             "owner": "ikpil",
             "repo": "Box2D.NET",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -607,7 +644,8 @@
             "owner": "dotnet-ad",
             "repo": "Humper",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -622,7 +660,8 @@
             "owner": "RedpointArchive",
             "repo": "Jitter",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -637,7 +676,8 @@
             "owner": "craftworkgames",
             "repo": "FarseerPhysics.Portable",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Physics"
@@ -658,7 +698,8 @@
             "owner": "roy-t",
             "repo": "AStar",
             "stars": 367
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -673,7 +714,8 @@
             "owner": "ApmeM",
             "repo": "BrainAI",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -688,7 +730,8 @@
             "owner": "leniel",
             "repo": "AStar",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Artificial Intelligence"
@@ -708,8 +751,9 @@
             "last_commit": "2022-08-02T14:05:23Z",
             "owner": "discosultan",
             "repo": "penumbra",
-            "stars": 349
-          }
+            "stars": 350
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -724,7 +768,8 @@
             "owner": "Kosmonaut3d",
             "repo": "DeferredEngine",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -739,7 +784,8 @@
             "owner": "fxgenstudio",
             "repo": "MGShaderEditor",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -754,7 +800,8 @@
             "owner": "tainicom",
             "repo": "Aether.Extras",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Effects"
@@ -775,7 +822,8 @@
             "owner": "Thraka",
             "repo": "SadConsole",
             "stars": 1383
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -790,7 +838,8 @@
             "owner": "discosultan",
             "repo": "quake-console",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Consoles"
@@ -811,7 +860,8 @@
             "owner": "Martenfur",
             "repo": "Nopipeline",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Pipeline"
@@ -832,7 +882,8 @@
             "owner": "cpt-max",
             "repo": "OculusRift4MonoGame",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "AR/VR"
@@ -853,7 +904,8 @@
             "owner": "Delta3-Studio",
             "repo": "Backdash",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -868,7 +920,8 @@
             "owner": "janfokke",
             "repo": "MonoSync",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Networking"
@@ -889,7 +942,8 @@
             "owner": "wakingviolet",
             "repo": "FSMsharp",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -904,7 +958,8 @@
             "owner": "mhutch",
             "repo": "Mono.GameMath",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -919,7 +974,8 @@
             "owner": "dotnet-ad",
             "repo": "Comora",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -934,7 +990,8 @@
             "owner": "jaquadro",
             "repo": "LilyPath",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1006,8 @@
             "owner": "Apostolique",
             "repo": "Apos.Input",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1022,8 @@
             "owner": "NoxiousPluK",
             "repo": "MonoGame.Primitives2D",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1038,8 @@
             "owner": "DeanReynolds",
             "repo": "Dcrew.Camera",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1054,8 @@
             "owner": "dotnet-ad",
             "repo": "Transform",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         },
         {
           "node_type": "item",
@@ -1009,14 +1070,15 @@
             "owner": "tainicom",
             "repo": "XNALibrary",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:10:23.511Z"
         }
       ],
       "title": "Helpers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:38:34.990Z",
+    "last_updated": "2026-08-29T00:10:23.511Z",
     "original_repository_info": {
       "archived": false,
       "id": 66775029,
