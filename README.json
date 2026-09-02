@@ -19,7 +19,7 @@
             "open_issues": 757,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14374,
+            "stars": 14381,
             "topics": [
               "3d",
               "c-sharp",
@@ -51,7 +51,7 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-09-01T13:26:29Z",
-            "open_issues": 63,
+            "open_issues": 66,
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3038,
@@ -107,11 +107,11 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-01T07:15:35Z",
+            "last_commit": "2026-09-01T18:55:27Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3317,
+            "stars": 3318,
             "topics": [
               "fna",
               "game-engine",
@@ -163,7 +163,7 @@
             "open_issues": 16,
             "owner": "MonoGame-Extended",
             "repo": "Monogame-Extended",
-            "stars": 1762,
+            "stars": 1763,
             "topics": [
               "monogame"
             ]
@@ -554,11 +554,11 @@
             "id": 8302181,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T08:31:06Z",
-            "open_issues": 81,
+            "last_commit": "2026-09-02T15:24:34Z",
+            "open_issues": 82,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5277,
+            "stars": 5279,
             "topics": [
               "2d",
               "animations",
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-01T14:35:45Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-02T17:05:53Z",
+            "open_issues": 15,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 614,
@@ -838,7 +838,7 @@
             "open_issues": 0,
             "owner": "BlizzCrafter",
             "repo": "MonoGame.Forms",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "editor",
               "editors",
@@ -1416,7 +1416,7 @@
             "id": 690212135,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-07-03T22:46:33Z",
+            "last_commit": "2026-09-02T18:56:55Z",
             "open_issues": 21,
             "owner": "Delta3-Studio",
             "repo": "Backdash",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:53:15.709Z",
+    "last_updated": "2026-09-02T18:59:23.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
