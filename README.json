@@ -15,11 +15,11 @@
             "id": 1579990,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T12:53:23Z",
-            "open_issues": 757,
+            "last_commit": "2026-09-03T11:47:09Z",
+            "open_issues": 759,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14381,
+            "stars": 14382,
             "topics": [
               "3d",
               "c-sharp",
@@ -50,8 +50,8 @@
             "id": 48347702,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-09-01T13:26:29Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-02T20:23:57Z",
+            "open_issues": 67,
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3038,
@@ -107,11 +107,11 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-01T18:55:27Z",
+            "last_commit": "2026-09-03T07:09:45Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3318,
+            "stars": 3317,
             "topics": [
               "fna",
               "game-engine",
@@ -163,7 +163,7 @@
             "open_issues": 16,
             "owner": "MonoGame-Extended",
             "repo": "Monogame-Extended",
-            "stars": 1763,
+            "stars": 1762,
             "topics": [
               "monogame"
             ]
@@ -186,7 +186,7 @@
             "open_issues": 8,
             "owner": "Thraka",
             "repo": "SadConsole",
-            "stars": 1382,
+            "stars": 1381,
             "topics": [
               "ansi",
               "ascii",
@@ -213,7 +213,7 @@
             "id": 49612213,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-31T10:38:53Z",
+            "last_commit": "2026-09-03T13:21:10Z",
             "open_issues": 96,
             "owner": "vchelaru",
             "repo": "FlatRedBall",
@@ -558,7 +558,7 @@
             "open_issues": 82,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5279,
+            "stars": 5281,
             "topics": [
               "2d",
               "animations",
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-02T17:05:53Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-03T17:35:30Z",
+            "open_issues": 18,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 614,
@@ -756,7 +756,7 @@
             "open_issues": 1,
             "owner": "Apostolique",
             "repo": "Apos.Gui",
-            "stars": 219,
+            "stars": 218,
             "topics": [
               "apos",
               "gui",
@@ -901,7 +901,7 @@
             "open_issues": 22,
             "owner": "Genbox",
             "repo": "VelcroPhysics",
-            "stars": 744,
+            "stars": 745,
             "topics": [
               "physics-2d",
               "physics-engine"
@@ -948,7 +948,7 @@
             "open_issues": 0,
             "owner": "tainicom",
             "repo": "Aether.Physics2D",
-            "stars": 389,
+            "stars": 388,
             "topics": []
           },
           "first_seen": "2026-08-29T00:10:23.511Z"
@@ -1013,7 +1013,7 @@
             "open_issues": 8,
             "owner": "ikpil",
             "repo": "Box2D.NET",
-            "stars": 206,
+            "stars": 207,
             "topics": [
               "2d",
               "2d-game",
@@ -1302,7 +1302,7 @@
             "open_issues": 8,
             "owner": "Thraka",
             "repo": "SadConsole",
-            "stars": 1382,
+            "stars": 1381,
             "topics": [
               "ansi",
               "ascii",
@@ -1416,7 +1416,7 @@
             "id": 690212135,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-02T18:56:55Z",
+            "last_commit": "2026-09-02T18:59:56Z",
             "open_issues": 21,
             "owner": "Delta3-Studio",
             "repo": "Backdash",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:59:23.405Z",
+    "last_updated": "2026-09-03T18:54:50.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
