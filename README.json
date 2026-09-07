@@ -19,7 +19,7 @@
             "open_issues": 764,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14399,
+            "stars": 14402,
             "topics": [
               "3d",
               "c-sharp",
@@ -50,8 +50,8 @@
             "id": 48347702,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-09-06T03:59:54Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-07T16:14:18Z",
+            "open_issues": 67,
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3039,
@@ -111,7 +111,7 @@
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3320,
+            "stars": 3319,
             "topics": [
               "fna",
               "game-engine",
@@ -213,11 +213,11 @@
             "id": 49612213,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-06T17:30:30Z",
-            "open_issues": 92,
+            "last_commit": "2026-09-06T19:56:16Z",
+            "open_issues": 87,
             "owner": "vchelaru",
             "repo": "FlatRedBall",
-            "stars": 571,
+            "stars": 572,
             "topics": [
               "2d-game-engine",
               "c-sharp",
@@ -298,7 +298,7 @@
             "open_issues": 0,
             "owner": "JamesMcMahon",
             "repo": "monocle-engine",
-            "stars": 187,
+            "stars": 188,
             "topics": []
           },
           "first_seen": "2026-08-29T00:10:23.511Z"
@@ -558,7 +558,7 @@
             "open_issues": 82,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5282,
+            "stars": 5286,
             "topics": [
               "2d",
               "animations",
@@ -693,11 +693,11 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-06T17:45:56Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-07T15:57:54Z",
+            "open_issues": 18,
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 616,
+            "stars": 617,
             "topics": [
               "fna-xna",
               "game-ui",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:47:25.651Z",
+    "last_updated": "2026-09-07T19:26:14.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
