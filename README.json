@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T21:38:20Z",
-            "open_issues": 773,
+            "open_issues": 772,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14427,
+            "stars": 14431,
             "topics": [
               "3d",
               "c-sharp",
@@ -50,8 +50,8 @@
             "id": 48347702,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-09-17T18:41:00Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-18T17:35:50Z",
+            "open_issues": 72,
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3044,
@@ -107,7 +107,7 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-16T23:12:52Z",
+            "last_commit": "2026-09-18T07:33:59Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
@@ -213,11 +213,11 @@
             "id": 49612213,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-17T19:03:27Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-17T23:15:54Z",
+            "open_issues": 72,
             "owner": "vchelaru",
             "repo": "FlatRedBall",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "2d-game-engine",
               "c-sharp",
@@ -558,7 +558,7 @@
             "open_issues": 81,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5294,
+            "stars": 5296,
             "topics": [
               "2d",
               "animations",
@@ -666,7 +666,7 @@
             "open_issues": 74,
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 878,
+            "stars": 879,
             "topics": [
               "csharp",
               "gamedev",
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-17T13:22:14Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-18T18:26:30Z",
+            "open_issues": 20,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 620,
@@ -728,7 +728,7 @@
             "open_issues": 17,
             "owner": "RonenNess",
             "repo": "GeonBit.UI",
-            "stars": 507,
+            "stars": 508,
             "topics": [
               "gamedev",
               "gamedev-library",
@@ -1545,7 +1545,7 @@
             "open_issues": 11,
             "owner": "jaquadro",
             "repo": "LilyPath",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-29T00:10:23.511Z"
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:19:35.332Z",
+    "last_updated": "2026-09-18T18:39:52.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
@@ -1697,7 +1697,7 @@
       "open_issues": 4,
       "owner": "aloisdeniel",
       "repo": "awesome-monogame",
-      "stars": 1454,
+      "stars": 1455,
       "topics": [
         "awesome",
         "game",
