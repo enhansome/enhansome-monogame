@@ -1,6 +1,6 @@
 # awesome-monogame with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,062 | 🐛 107 | 📅 2026-09-02
 
 A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for building cross-platform games with [MonoGame framework](http://www.monogame.net/).
 
@@ -25,7 +25,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) 
 
 ## General
 
-* [**MonoGame**](https://github.com/MonoGame/MonoGame) ⭐ 14,480 | 🐛 756 | 🌐 C# | 📅 2026-10-02 - ![GitHub stars](https://img.shields.io/github/stars/MonoGame/MonoGame.svg) - Source code for the framework and its tools.
+* [**MonoGame**](https://github.com/MonoGame/MonoGame) ⭐ 14,482 | 🐛 756 | 🌐 C# | 📅 2026-10-03 - ![GitHub stars](https://img.shields.io/github/stars/MonoGame/MonoGame.svg) - Source code for the framework and its tools.
 * [**FNA**](https://github.com/FNA-XNA/FNA) ⭐ 3,050 | 🐛 64 | 🌐 C# | 📅 2026-10-02 - ![GitHub stars](https://img.shields.io/github/stars/FNA-XNA/FNA.svg) - Desktop unique reimplementation of XNA 4.0 apis. It can be used to build desktop versions and be sure to have the same behavior on all platforms.
 * [DigitalRune](https://github.com/DigitalRune/DigitalRune) ⭐ 285 | 🐛 6 | 🌐 C# | 📅 2016-06-05 - ![GitHub stars](https://img.shields.io/github/stars/DigitalRune/DigitalRune.svg) - .NET libraries for developing 3D games with XNA and MonoGame
 
@@ -66,8 +66,8 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) 
 ## User Interfaces
 
 * [Myra](https://github.com/rds1983/Myra) ⭐ 880 | 🐛 72 | 🌐 C# | 📅 2026-09-20 - ![GitHub stars](https://img.shields.io/github/stars/rds1983/Myra.svg) - UI Library for MonoGame.
-* [**Gum**](https://github.com/vchelaru/Gum/) ⭐ 628 | 🐛 40 | 🌐 C# | 📅 2026-10-03 - ![GitHub stars](https://img.shields.io/github/stars/vchelaru/Gum.svg) - Flexible layout tool and runtime for creating UI on any platform.
-* [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) ⭐ 508 | 🐛 17 | 🌐 C# | 📅 2024-04-25 - ![GitHub stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI.svg) - UI system.
+* [**Gum**](https://github.com/vchelaru/Gum/) ⭐ 629 | 🐛 46 | 🌐 C# | 📅 2026-10-03 - ![GitHub stars](https://img.shields.io/github/stars/vchelaru/Gum.svg) - Flexible layout tool and runtime for creating UI on any platform.
+* [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) ⭐ 509 | 🐛 17 | 🌐 C# | 📅 2024-04-25 - ![GitHub stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI.svg) - UI system.
 * [Apos.Gui](https://github.com/Apostolique/Apos.Gui) ⭐ 217 | 🐛 1 | 🌐 C# | 📅 2026-07-22 - ![GitHub stars](https://img.shields.io/github/stars/Apostolique/Apos.Gui.svg) - UI library for MonoGame.
 * [EmptyKeys](https://github.com/EmptyKeys/UI_Engines) ⭐ 60 | 🐛 4 | 🌐 C# | 📅 2025-05-25 - ![GitHub stars](https://img.shields.io/github/stars/EmptyKeys/UI_Engines.svg) - Create UI from a WPF like XAML.
 * [Avalonia Monogame Dock Template](https://github.com/vilten/Avalonia-Monogame-Dock-Template) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2025-02-18 - ![GitHub stars](https://img.shields.io/github/stars/vilten/Avalonia-Monogame-Dock-Template.svg) - Avalonia UI with docking system and Monogame window, for creating your own graphic desktop software.
@@ -138,7 +138,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) 
 
 ## Samples
 
-* [XNAGameStudio](https://github.com/SimonDarksideJ/XNAGameStudio) ⭐ 840 | 🐛 9 | 📅 2025-11-14 - ![GitHub stars](https://img.shields.io/github/stars/SimonDarksideJ/XNAGameStudio.svg) - The Education library from XNA Game Studios, valuable for MonoGame Developers for advanced samples.
+* [XNAGameStudio](https://github.com/SimonDarksideJ/XNAGameStudio) ⭐ 839 | 🐛 9 | 📅 2025-11-14 - ![GitHub stars](https://img.shields.io/github/stars/SimonDarksideJ/XNAGameStudio.svg) - The Education library from XNA Game Studios, valuable for MonoGame Developers for advanced samples.
 
 ## License
 
