@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T13:05:37Z",
-            "open_issues": 756,
+            "open_issues": 758,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14482,
+            "stars": 14485,
             "topics": [
               "3d",
               "c-sharp",
@@ -50,11 +50,11 @@
             "id": 48347702,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-02T18:50:54Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-04T05:24:41Z",
+            "open_issues": 63,
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3050,
+            "stars": 3051,
             "topics": [
               "csharp",
               "fna",
@@ -137,7 +137,7 @@
             "open_issues": 52,
             "owner": "prime31",
             "repo": "Nez",
-            "stars": 2080,
+            "stars": 2081,
             "topics": [
               "farseerphysics",
               "fna",
@@ -662,7 +662,7 @@
             "id": 66231101,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-20T11:12:58Z",
+            "last_commit": "2026-10-04T17:11:09Z",
             "open_issues": 72,
             "owner": "MyraUI",
             "repo": "Myra",
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-03T13:08:46Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-04T18:47:01Z",
+            "open_issues": 58,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 629,
@@ -901,7 +901,7 @@
             "open_issues": 22,
             "owner": "Genbox",
             "repo": "VelcroPhysics",
-            "stars": 747,
+            "stars": 748,
             "topics": [
               "physics-2d",
               "physics-engine"
@@ -1420,7 +1420,7 @@
             "open_issues": 21,
             "owner": "Delta3-Studio",
             "repo": "Backdash",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "fighting-game",
               "gamedev",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:50:40.576Z",
+    "last_updated": "2026-10-04T18:49:52.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
