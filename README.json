@@ -15,11 +15,11 @@
             "id": 1579990,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T13:05:37Z",
-            "open_issues": 758,
+            "last_commit": "2026-10-05T18:22:21Z",
+            "open_issues": 756,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14485,
+            "stars": 14487,
             "topics": [
               "3d",
               "c-sharp",
@@ -54,7 +54,7 @@
             "open_issues": 63,
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3051,
+            "stars": 3052,
             "topics": [
               "csharp",
               "fna",
@@ -107,11 +107,11 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:46:54Z",
+            "last_commit": "2026-10-04T22:25:17Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3335,
+            "stars": 3337,
             "topics": [
               "fna",
               "game-engine",
@@ -137,7 +137,7 @@
             "open_issues": 52,
             "owner": "prime31",
             "repo": "Nez",
-            "stars": 2081,
+            "stars": 2082,
             "topics": [
               "farseerphysics",
               "fna",
@@ -163,7 +163,7 @@
             "open_issues": 20,
             "owner": "MonoGame-Extended",
             "repo": "Monogame-Extended",
-            "stars": 1770,
+            "stars": 1771,
             "topics": [
               "monogame"
             ]
@@ -554,11 +554,11 @@
             "id": 8302181,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T22:11:28Z",
+            "last_commit": "2026-10-05T19:25:45Z",
             "open_issues": 82,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5309,
+            "stars": 5310,
             "topics": [
               "2d",
               "animations",
@@ -662,7 +662,7 @@
             "id": 66231101,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-04T17:11:09Z",
+            "last_commit": "2026-10-04T19:53:37Z",
             "open_issues": 72,
             "owner": "MyraUI",
             "repo": "Myra",
@@ -693,11 +693,11 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-04T18:47:01Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-05T22:10:42Z",
+            "open_issues": 37,
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 629,
+            "stars": 631,
             "topics": [
               "fna-xna",
               "game-ui",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:49:52.478Z",
+    "last_updated": "2026-10-05T22:12:50.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
@@ -1697,7 +1697,7 @@
       "open_issues": 3,
       "owner": "aloisdeniel",
       "repo": "awesome-monogame",
-      "stars": 1456,
+      "stars": 1455,
       "topics": [
         "awesome",
         "game",
