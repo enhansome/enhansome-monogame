@@ -54,7 +54,7 @@
             "open_issues": 64,
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3052,
+            "stars": 3051,
             "topics": [
               "csharp",
               "fna",
@@ -111,7 +111,7 @@
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3337,
+            "stars": 3336,
             "topics": [
               "fna",
               "game-engine",
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-06T05:58:42Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-06T20:35:16Z",
+            "open_issues": 33,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 631,
@@ -925,7 +925,7 @@
             "open_issues": 5,
             "owner": "bepu",
             "repo": "bepuphysics1",
-            "stars": 435,
+            "stars": 434,
             "topics": [
               "physics-simulation-library"
             ]
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:00:39.187Z",
+    "last_updated": "2026-10-06T20:35:46.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
