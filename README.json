@@ -15,11 +15,11 @@
             "id": 1579990,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T18:22:21Z",
-            "open_issues": 756,
+            "last_commit": "2026-10-07T19:36:19Z",
+            "open_issues": 759,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14489,
+            "stars": 14495,
             "topics": [
               "3d",
               "c-sharp",
@@ -50,8 +50,8 @@
             "id": 48347702,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-04T05:24:41Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-07T12:09:50Z",
+            "open_issues": 65,
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3051,
@@ -107,7 +107,7 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-06T00:05:03Z",
+            "last_commit": "2026-10-07T01:41:30Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
@@ -160,10 +160,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-08-18T04:30:06Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "MonoGame-Extended",
             "repo": "Monogame-Extended",
-            "stars": 1771,
+            "stars": 1772,
             "topics": [
               "monogame"
             ]
@@ -558,7 +558,7 @@
             "open_issues": 82,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5310,
+            "stars": 5311,
             "topics": [
               "2d",
               "animations",
@@ -693,7 +693,7 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-06T20:35:16Z",
+            "last_commit": "2026-10-07T20:41:43Z",
             "open_issues": 33,
             "owner": "vchelaru",
             "repo": "Gum",
@@ -1363,7 +1363,7 @@
             "open_issues": 2,
             "owner": "Martenfur",
             "repo": "Nopipeline",
-            "stars": 231,
+            "stars": 233,
             "topics": [
               "monogame",
               "monogame-framework"
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:35:46.107Z",
+    "last_updated": "2026-10-07T20:50:06.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
