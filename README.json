@@ -19,7 +19,7 @@
             "open_issues": 768,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14536,
+            "stars": 14539,
             "topics": [
               "3d",
               "c-sharp",
@@ -51,10 +51,10 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-10-16T16:42:11Z",
-            "open_issues": 74,
+            "open_issues": 76,
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3056,
+            "stars": 3057,
             "topics": [
               "csharp",
               "fna",
@@ -107,11 +107,11 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-15T23:20:14Z",
+            "last_commit": "2026-10-17T17:51:51Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3343,
+            "stars": 3344,
             "topics": [
               "fna",
               "game-engine",
@@ -663,7 +663,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-08T04:59:17Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "MyraUI",
             "repo": "Myra",
             "stars": 885,
@@ -693,11 +693,11 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-16T19:00:46Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-17T17:53:57Z",
+            "open_issues": 15,
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 634,
+            "stars": 635,
             "topics": [
               "fna-xna",
               "game-ui",
@@ -901,7 +901,7 @@
             "open_issues": 22,
             "owner": "Genbox",
             "repo": "VelcroPhysics",
-            "stars": 749,
+            "stars": 750,
             "topics": [
               "physics-2d",
               "physics-engine"
@@ -1013,7 +1013,7 @@
             "open_issues": 10,
             "owner": "ikpil",
             "repo": "Box2D.NET",
-            "stars": 220,
+            "stars": 221,
             "topics": [
               "2d",
               "2d-game",
@@ -1416,7 +1416,7 @@
             "id": 690212135,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-14T19:06:20Z",
+            "last_commit": "2026-10-16T20:49:56Z",
             "open_issues": 16,
             "owner": "Delta3-Studio",
             "repo": "Backdash",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:03:07.002Z",
+    "last_updated": "2026-10-17T17:59:02.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
