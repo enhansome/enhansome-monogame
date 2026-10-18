@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-11T15:21:59Z",
-            "open_issues": 768,
+            "open_issues": 769,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14539,
+            "stars": 14544,
             "topics": [
               "3d",
               "c-sharp",
@@ -51,7 +51,7 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-10-16T16:42:11Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3057,
@@ -137,7 +137,7 @@
             "open_issues": 52,
             "owner": "prime31",
             "repo": "Nez",
-            "stars": 2088,
+            "stars": 2089,
             "topics": [
               "farseerphysics",
               "fna",
@@ -163,7 +163,7 @@
             "open_issues": 23,
             "owner": "MonoGame-Extended",
             "repo": "Monogame-Extended",
-            "stars": 1778,
+            "stars": 1780,
             "topics": [
               "monogame"
             ]
@@ -213,8 +213,8 @@
             "id": 49612213,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-16T12:51:00Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-18T18:02:24Z",
+            "open_issues": 81,
             "owner": "vchelaru",
             "repo": "FlatRedBall",
             "stars": 579,
@@ -453,7 +453,7 @@
           "description": "- An engine for 2D mobile games.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "2D game engine for mobile devices in C#.",
             "homepage": null,
             "id": 78038178,
@@ -558,7 +558,7 @@
             "open_issues": 87,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5322,
+            "stars": 5324,
             "topics": [
               "2d",
               "animations",
@@ -662,8 +662,8 @@
             "id": 66231101,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-08T04:59:17Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-18T14:36:05Z",
+            "open_issues": 71,
             "owner": "MyraUI",
             "repo": "Myra",
             "stars": 885,
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-17T17:53:57Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-18T14:27:33Z",
+            "open_issues": 11,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 635,
@@ -756,7 +756,7 @@
             "open_issues": 1,
             "owner": "Apostolique",
             "repo": "Apos.Gui",
-            "stars": 220,
+            "stars": 221,
             "topics": [
               "apos",
               "gui",
@@ -1233,7 +1233,7 @@
             "open_issues": 0,
             "owner": "Kosmonaut3d",
             "repo": "DeferredEngine",
-            "stars": 259,
+            "stars": 258,
             "topics": []
           },
           "first_seen": "2026-08-29T00:10:23.511Z"
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:59:02.532Z",
+    "last_updated": "2026-10-18T18:18:12.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
@@ -1697,7 +1697,7 @@
       "open_issues": 4,
       "owner": "aloisdeniel",
       "repo": "awesome-monogame",
-      "stars": 1460,
+      "stars": 1459,
       "topics": [
         "awesome",
         "game",
