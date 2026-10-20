@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-11T15:21:59Z",
-            "open_issues": 770,
+            "open_issues": 772,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14546,
+            "stars": 14550,
             "topics": [
               "3d",
               "c-sharp",
@@ -51,7 +51,7 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-10-19T18:48:37Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3059,
@@ -107,11 +107,11 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-19T01:18:58Z",
+            "last_commit": "2026-10-20T02:48:41Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3346,
+            "stars": 3347,
             "topics": [
               "fna",
               "game-engine",
@@ -163,7 +163,7 @@
             "open_issues": 23,
             "owner": "MonoGame-Extended",
             "repo": "Monogame-Extended",
-            "stars": 1780,
+            "stars": 1781,
             "topics": [
               "monogame"
             ]
@@ -693,11 +693,11 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-19T15:55:19Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-20T19:32:18Z",
+            "open_issues": 26,
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 636,
+            "stars": 638,
             "topics": [
               "fna-xna",
               "game-ui",
@@ -1416,7 +1416,7 @@
             "id": 690212135,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-19T01:15:20Z",
+            "last_commit": "2026-10-20T14:18:21Z",
             "open_issues": 18,
             "owner": "Delta3-Studio",
             "repo": "Backdash",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:44:34.544Z",
+    "last_updated": "2026-10-20T19:39:42.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
