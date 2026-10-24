@@ -19,7 +19,7 @@
             "open_issues": 777,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14562,
+            "stars": 14567,
             "topics": [
               "3d",
               "c-sharp",
@@ -54,7 +54,7 @@
             "open_issues": 74,
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3062,
+            "stars": 3063,
             "topics": [
               "csharp",
               "fna",
@@ -107,7 +107,7 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-22T19:55:50Z",
+            "last_commit": "2026-10-24T17:09:40Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
@@ -298,7 +298,7 @@
             "open_issues": 0,
             "owner": "JamesMcMahon",
             "repo": "monocle-engine",
-            "stars": 191,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-29T00:10:23.511Z"
@@ -558,7 +558,7 @@
             "open_issues": 86,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5328,
+            "stars": 5329,
             "topics": [
               "2d",
               "animations",
@@ -666,7 +666,7 @@
             "open_issues": 71,
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 887,
+            "stars": 888,
             "topics": [
               "csharp",
               "gamedev",
@@ -693,11 +693,11 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-23T19:22:59Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-24T18:23:01Z",
+            "open_issues": 34,
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 645,
+            "stars": 646,
             "topics": [
               "fna-xna",
               "game-ui",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:34:42.912Z",
+    "last_updated": "2026-10-24T18:23:29.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
