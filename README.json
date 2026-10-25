@@ -19,7 +19,7 @@
             "open_issues": 777,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14567,
+            "stars": 14572,
             "topics": [
               "3d",
               "c-sharp",
@@ -54,7 +54,7 @@
             "open_issues": 74,
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3063,
+            "stars": 3064,
             "topics": [
               "csharp",
               "fna",
@@ -558,7 +558,7 @@
             "open_issues": 86,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5329,
+            "stars": 5331,
             "topics": [
               "2d",
               "animations",
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-24T18:23:01Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-25T15:51:34Z",
+            "open_issues": 24,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 646,
@@ -1233,7 +1233,7 @@
             "open_issues": 0,
             "owner": "Kosmonaut3d",
             "repo": "DeferredEngine",
-            "stars": 258,
+            "stars": 259,
             "topics": []
           },
           "first_seen": "2026-08-29T00:10:23.511Z"
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:23:29.494Z",
+    "last_updated": "2026-10-25T18:34:11.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
@@ -1697,7 +1697,7 @@
       "open_issues": 4,
       "owner": "aloisdeniel",
       "repo": "awesome-monogame",
-      "stars": 1462,
+      "stars": 1463,
       "topics": [
         "awesome",
         "game",
