@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-27T11:10:18Z",
-            "open_issues": 777,
+            "open_issues": 779,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14576,
+            "stars": 14581,
             "topics": [
               "3d",
               "c-sharp",
@@ -111,7 +111,7 @@
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3350,
+            "stars": 3351,
             "topics": [
               "fna",
               "game-engine",
@@ -186,7 +186,7 @@
             "open_issues": 8,
             "owner": "Thraka",
             "repo": "SadConsole",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "ansi",
               "ascii",
@@ -217,7 +217,7 @@
             "open_issues": 65,
             "owner": "vchelaru",
             "repo": "FlatRedBall",
-            "stars": 580,
+            "stars": 581,
             "topics": [
               "2d-game-engine",
               "c-sharp",
@@ -558,7 +558,7 @@
             "open_issues": 87,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5335,
+            "stars": 5338,
             "topics": [
               "2d",
               "animations",
@@ -693,11 +693,11 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:32:04Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-28T20:33:35Z",
+            "open_issues": 32,
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 649,
+            "stars": 650,
             "topics": [
               "fna-xna",
               "game-ui",
@@ -1302,7 +1302,7 @@
             "open_issues": 8,
             "owner": "Thraka",
             "repo": "SadConsole",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "ansi",
               "ascii",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:16:08.212Z",
+    "last_updated": "2026-10-28T20:36:31.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
