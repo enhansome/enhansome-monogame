@@ -19,7 +19,7 @@
             "open_issues": 773,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14608,
+            "stars": 14615,
             "topics": [
               "3d",
               "c-sharp",
@@ -54,7 +54,7 @@
             "open_issues": 83,
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3068,
+            "stars": 3067,
             "topics": [
               "csharp",
               "fna",
@@ -84,7 +84,7 @@
             "open_issues": 6,
             "owner": "DigitalRune",
             "repo": "DigitalRune",
-            "stars": 285,
+            "stars": 284,
             "topics": []
           },
           "first_seen": "2026-08-29T00:10:23.511Z"
@@ -107,7 +107,7 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-05T02:30:50Z",
+            "last_commit": "2026-11-08T05:45:16Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
@@ -160,7 +160,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-10T03:53:51Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "MonoGame-Extended",
             "repo": "Monogame-Extended",
             "stars": 1785,
@@ -213,7 +213,7 @@
             "id": 49612213,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-06T22:49:45Z",
+            "last_commit": "2026-11-08T19:03:12Z",
             "open_issues": 69,
             "owner": "vchelaru",
             "repo": "FlatRedBall",
@@ -558,7 +558,7 @@
             "open_issues": 90,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5353,
+            "stars": 5356,
             "topics": [
               "2d",
               "animations",
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-07T12:09:31Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-08T19:57:39Z",
+            "open_issues": 16,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 655,
@@ -728,7 +728,7 @@
             "open_issues": 17,
             "owner": "RonenNess",
             "repo": "GeonBit.UI",
-            "stars": 511,
+            "stars": 510,
             "topics": [
               "gamedev",
               "gamedev-library",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:41:07.258Z",
+    "last_updated": "2026-11-08T19:59:50.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
@@ -1697,7 +1697,7 @@
       "open_issues": 5,
       "owner": "aloisdeniel",
       "repo": "awesome-monogame",
-      "stars": 1467,
+      "stars": 1470,
       "topics": [
         "awesome",
         "game",
