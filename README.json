@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-10T14:30:21Z",
-            "open_issues": 772,
+            "open_issues": 773,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14621,
+            "stars": 14626,
             "topics": [
               "3d",
               "c-sharp",
@@ -107,7 +107,7 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-08T05:45:16Z",
+            "last_commit": "2026-11-10T22:08:39Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
@@ -217,7 +217,7 @@
             "open_issues": 69,
             "owner": "vchelaru",
             "repo": "FlatRedBall",
-            "stars": 582,
+            "stars": 583,
             "topics": [
               "2d-game-engine",
               "c-sharp",
@@ -554,11 +554,11 @@
             "id": 8302181,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T22:16:04Z",
+            "last_commit": "2026-11-10T21:53:19Z",
             "open_issues": 90,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5357,
+            "stars": 5359,
             "topics": [
               "2d",
               "animations",
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-10T21:21:00Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-11T20:13:41Z",
+            "open_issues": 15,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 658,
@@ -948,7 +948,7 @@
             "open_issues": 0,
             "owner": "tainicom",
             "repo": "Aether.Physics2D",
-            "stars": 388,
+            "stars": 389,
             "topics": []
           },
           "first_seen": "2026-08-29T00:10:23.511Z"
@@ -1563,7 +1563,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-11T03:33:41Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Apostolique",
             "repo": "Apos.Input",
             "stars": 67,
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:28:48.322Z",
+    "last_updated": "2026-11-11T22:19:22.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
