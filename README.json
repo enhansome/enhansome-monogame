@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-10T14:30:21Z",
-            "open_issues": 773,
+            "open_issues": 774,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14626,
+            "stars": 14630,
             "topics": [
               "3d",
               "c-sharp",
@@ -51,7 +51,7 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-11-01T13:35:45Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3066,
@@ -107,7 +107,7 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-10T22:08:39Z",
+            "last_commit": "2026-11-12T21:00:28Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
@@ -186,7 +186,7 @@
             "open_issues": 9,
             "owner": "Thraka",
             "repo": "SadConsole",
-            "stars": 1386,
+            "stars": 1387,
             "topics": [
               "ansi",
               "ascii",
@@ -298,7 +298,7 @@
             "open_issues": 0,
             "owner": "JamesMcMahon",
             "repo": "monocle-engine",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-29T00:10:23.511Z"
@@ -558,7 +558,7 @@
             "open_issues": 90,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5359,
+            "stars": 5361,
             "topics": [
               "2d",
               "animations",
@@ -693,11 +693,11 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-11T20:13:41Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-12T21:25:05Z",
+            "open_issues": 18,
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 658,
+            "stars": 659,
             "topics": [
               "fna-xna",
               "game-ui",
@@ -1013,7 +1013,7 @@
             "open_issues": 10,
             "owner": "ikpil",
             "repo": "Box2D.NET",
-            "stars": 228,
+            "stars": 227,
             "topics": [
               "2d",
               "2d-game",
@@ -1302,7 +1302,7 @@
             "open_issues": 9,
             "owner": "Thraka",
             "repo": "SadConsole",
-            "stars": 1386,
+            "stars": 1387,
             "topics": [
               "ansi",
               "ascii",
@@ -1594,7 +1594,7 @@
             "open_issues": 6,
             "owner": "NoxiousPluK",
             "repo": "MonoGame.Primitives2D",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "2d",
               "2d-game-framework",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:19:22.336Z",
+    "last_updated": "2026-11-12T21:56:18.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
