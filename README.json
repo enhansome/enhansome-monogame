@@ -51,7 +51,7 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-11-13T14:20:07Z",
-            "open_issues": 84,
+            "open_issues": 83,
             "owner": "FNA-XNA",
             "repo": "FNA",
             "stars": 3067,
@@ -107,11 +107,11 @@
             "id": 556157877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-13T20:05:13Z",
+            "last_commit": "2026-11-14T08:27:22Z",
             "open_issues": 16,
             "owner": "isadorasophia",
             "repo": "murder",
-            "stars": 3357,
+            "stars": 3355,
             "topics": [
               "fna",
               "game-engine",
@@ -163,7 +163,7 @@
             "open_issues": 24,
             "owner": "MonoGame-Extended",
             "repo": "Monogame-Extended",
-            "stars": 1786,
+            "stars": 1787,
             "topics": [
               "monogame"
             ]
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-13T16:39:52Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-14T18:50:58Z",
+            "open_issues": 35,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 660,
@@ -1122,7 +1122,7 @@
             "open_issues": 1,
             "owner": "roy-t",
             "repo": "AStar",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "astar",
               "csharp",
@@ -1562,8 +1562,8 @@
             "id": 168710722,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-11T03:33:41Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-14T12:56:46Z",
+            "open_issues": 3,
             "owner": "Apostolique",
             "repo": "Apos.Input",
             "stars": 67,
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:41:04.403Z",
+    "last_updated": "2026-11-14T20:10:37.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
@@ -1697,7 +1697,7 @@
       "open_issues": 5,
       "owner": "aloisdeniel",
       "repo": "awesome-monogame",
-      "stars": 1473,
+      "stars": 1474,
       "topics": [
         "awesome",
         "game",
