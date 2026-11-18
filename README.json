@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-14T23:24:50Z",
-            "open_issues": 778,
+            "open_issues": 779,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14645,
+            "stars": 14649,
             "topics": [
               "3d",
               "c-sharp",
@@ -84,7 +84,7 @@
             "open_issues": 6,
             "owner": "DigitalRune",
             "repo": "DigitalRune",
-            "stars": 284,
+            "stars": 283,
             "topics": []
           },
           "first_seen": "2026-08-29T00:10:23.511Z"
@@ -137,7 +137,7 @@
             "open_issues": 51,
             "owner": "prime31",
             "repo": "Nez",
-            "stars": 2092,
+            "stars": 2091,
             "topics": [
               "farseerphysics",
               "fna",
@@ -554,7 +554,7 @@
             "id": 8302181,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T18:16:10Z",
+            "last_commit": "2026-11-18T10:06:49Z",
             "open_issues": 89,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
@@ -693,11 +693,11 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-17T23:07:13Z",
+            "last_commit": "2026-11-18T22:40:09Z",
             "open_issues": 18,
             "owner": "vchelaru",
             "repo": "Gum",
-            "stars": 660,
+            "stars": 661,
             "topics": [
               "fna-xna",
               "game-ui",
@@ -728,7 +728,7 @@
             "open_issues": 17,
             "owner": "RonenNess",
             "repo": "GeonBit.UI",
-            "stars": 510,
+            "stars": 509,
             "topics": [
               "gamedev",
               "gamedev-library",
@@ -756,7 +756,7 @@
             "open_issues": 1,
             "owner": "Apostolique",
             "repo": "Apos.Gui",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "apos",
               "gui",
@@ -784,7 +784,7 @@
             "open_issues": 4,
             "owner": "EmptyKeys",
             "repo": "UI_Engines",
-            "stars": 61,
+            "stars": 60,
             "topics": [
               "fna",
               "monogame",
@@ -1013,7 +1013,7 @@
             "open_issues": 10,
             "owner": "ikpil",
             "repo": "Box2D.NET",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "2d",
               "2d-game",
@@ -1122,7 +1122,7 @@
             "open_issues": 1,
             "owner": "roy-t",
             "repo": "AStar",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "astar",
               "csharp",
@@ -1416,11 +1416,11 @@
             "id": 690212135,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-17T16:15:37Z",
+            "last_commit": "2026-11-18T00:07:29Z",
             "open_issues": 16,
             "owner": "Delta3-Studio",
             "repo": "Backdash",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "fighting-game",
               "gamedev",
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:11:35.161Z",
+    "last_updated": "2026-11-18T22:43:13.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
