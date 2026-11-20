@@ -19,7 +19,7 @@
             "open_issues": 780,
             "owner": "MonoGame",
             "repo": "MonoGame",
-            "stars": 14657,
+            "stars": 14663,
             "topics": [
               "3d",
               "c-sharp",
@@ -54,7 +54,7 @@
             "open_issues": 83,
             "owner": "FNA-XNA",
             "repo": "FNA",
-            "stars": 3067,
+            "stars": 3068,
             "topics": [
               "csharp",
               "fna",
@@ -137,7 +137,7 @@
             "open_issues": 51,
             "owner": "prime31",
             "repo": "Nez",
-            "stars": 2090,
+            "stars": 2091,
             "topics": [
               "farseerphysics",
               "fna",
@@ -213,7 +213,7 @@
             "id": 49612213,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-17T00:50:15Z",
+            "last_commit": "2026-11-20T15:12:35Z",
             "open_issues": 69,
             "owner": "vchelaru",
             "repo": "FlatRedBall",
@@ -558,7 +558,7 @@
             "open_issues": 90,
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5372,
+            "stars": 5374,
             "topics": [
               "2d",
               "animations",
@@ -693,8 +693,8 @@
             "id": 32026097,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-19T22:38:58Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-20T22:18:20Z",
+            "open_issues": 22,
             "owner": "vchelaru",
             "repo": "Gum",
             "stars": 662,
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:46:43.219Z",
+    "last_updated": "2026-11-20T22:23:16.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries/tools for Monogame based game projects",
